@@ -2,17 +2,17 @@ Introduction: this project focuses on the places on the campaign route of Sunni 
 
 Goals: Use Google Earth, GeoName, and Wikipedia to locate places occurred on the military journey of Sunni Ali in Tarikh al-Fattash. Reconstruct geographical data and a timeline based on the text. Store the data in the .yml format for future use in the new perseus.tufts.edu. 
 
-Sources: Tarikh al-Fattash; comments from the English edition by Wise and Abu Taleb
+Sources: Tarikh al-Fattash; comments from the English edition by Wise and Abu Taleb (Christopher Wise, editor and translator, and Hala Abu Taleb, translator. Taʾrīkh al Fattāsh: The Timbuktu Chronicles 1493–1599. Trenton, N.J.: Africa World Press, 2011.)
 
 Choice of language format: 
 YAML (.yml) or JSON (.json) each has its own pros and cons for developers using different languages. Compared with JSON, YAML is commonly deemed to be a data-representation language easier to visually read for human readers and hence I chose it for this project. It can also be converted to JSON if needed in the future. 
 
 YAML file explained: 
-1.	Title: the name of the place in the text of Tarikh Fattash (edition?)
+1.	Title: the name of the place in the text of Tarikh al-Fattash 
 
 2.	Type: settlement, river, lake, province
 
-3.	url: Wikipedia, GeoName; or other relevant website if the previous two platforms do not offer any information.
+3.	url: Wikipedia, GeoName.org; or other relevant website if the previous two platforms do not offer any information.
 
 4.	data: 
 
