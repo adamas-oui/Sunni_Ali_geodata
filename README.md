@@ -20,4 +20,4 @@ e.	frequency: how often this place is mentioned in Tarikh Fattash
 f.	ifCampaign: True if Sunni Ali has been to this place on the way of his campaign; False if this place is mentioned for the sake of additional knowledge.  
 g.	confidence: this entry is evaluated into three levels: 1, 2, and 3. For 1, it denotes full confidence with which we connect the place mentioned in the text with coordinates on the map. 2 denotes ambiguity: the name of a place could match with a modern location, but the author cannot be sure based either on the texts or commentary of Wise and Abu Taleb. 3 denotes absolute uncertainty, which means the author cannot locate the place. 
 h.	commentary: include the author’s commentary, explaining why we choose the coordinates; include commentary of Wise and Abu Taleb
-![image](https://user-images.githubusercontent.com/63675783/147302803-e167caa6-916d-4599-9b9b-c1a3c061c73d.png)
+
