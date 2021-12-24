@@ -1,0 +1,464 @@
+---
+label: The Campaign of Sunni Ali 
+urn:
+metadata:
+  attributions:
+    - name: Yilin Liu
+      role: Author 
+entities: 
+  - title: Koukiya
+    type: settlement
+    url: https://www.geonames.org/2460133/bentia.html
+    data: 
+      otherNames: Bentyia, Bentia, Kukiya, Gunguia
+      ifPolygon: False
+      coordinates: 15.3533, 0.7607
+      modernCountry: Mali
+      frequency: 8
+      ifCampaign: True
+      confidence: 1
+      commentary: It is one of the royal residences of Sunni Ali. Today it is about 150 kilometers downstream of Gao on the Niger (Wise & Abu Taleb, pp.90). 
+  - title: Gao
+  type: settlement
+  url: https://en.wikipedia.org/wiki/Gao
+  data: 
+    otherNames: GaoGao
+    ifPolygon: False
+    coordinates: 16.27167, -0.04472
+    modernCountry: Mali
+    frequency: 37
+    ifCampaign: True
+    confidence: 1
+    commentary: It is one of the royal residences of Sunni Ali. The capital of modern Gao region. 
+  - title: Kabara
+  type: settlement
+  url: https://en.wikipedia.org/wiki/Kabara,_Mali
+  data: 
+    otherNames: Tila
+    ifPolygon: False
+    coordinates: 16.70431, -2.98302
+    modernCountry: Mali
+    frequency: 2
+    ifCampaign: True
+    confidence: 1
+    commentary: It is one of the royal residences of Sunni Ali. It is a port of Timbuktu on the Niger (Wise & Abu Taleb, pp.90). Kabara is also the name of a lake in the southwest of Timbuktu. 
+  - title: Tila
+    type: settlement
+    url: https://www.geonames.org/6872667/tila.html
+    data: 
+      otherNames:
+      ifPolygon: False
+      coordinates: 15.22993, -2.51134
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: True
+      confidence: 2
+      commentary: Wise and Abu Taleb think that it is on the outskirts of Kabara to the east (pp.90), but the TF indicates that Tila is another name of Kabara at that time. Modern-day Tila, according to geonames.org, is in Douentza, Mali and about 220 kilometers in the south of Kabara.
+  - title: Warain 
+    type: settlement
+    url: https://travelingluck.com/Africa/Mali/Mali+%28general%29/_2460997_Aor%C3%A9.html
+    data: 
+      otherNames: Wara, Aure, Aoré
+      ifPolygon: False
+      coordinates: 15.5218, -4.3117
+      modernCountry: Mali
+      frequency: 6
+      ifCampaign: True
+      confidence: 1
+      commentary: Wise and Abu Taleb think it is situated on the right bank of the Niger, 20 km north of Lake Debo. 
+  - title: Dirma
+    type: province
+    url: 
+    data: 
+      otherNames: 
+      ifPolygon: True
+      coordinates: 
+      modernCountry: Mali
+      frequency: 3
+      ifCampaign: True
+      confidence: 1
+      commentary: Dirma is an area in the form of polygon. Wise and Abu Taleb think that it lies between Issa-Ber and Bara-Issa, north of Lake Debo, and the name is sometimes used for the entire region of the Niger between Jenne and Timbuktu.
+  - title: Ankaba
+    type: settlement
+    url: https://en.wikipedia.org/wiki/Diankabou
+    data: 
+      otherNames: Diankabe
+      ifPolygon: False
+      coordinates: 14.5844, -3.08129
+      frequency: 1
+      ifCampaign: False
+      confidence: 2
+      commentary: Wise and Abu Taleb think that this refers to the village of Diankabe, in the east of Wara; however, the only place closest to "Diankabe" is Diankabou. It is in the east of Wara, but very far from it, so I am not fully confident. 
+  - title: Diendiao
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: 
+      coordinates:
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: Wise and Abu Taleb think that this is a village on the left bank of the Niger, facing Wara, but I cannot find it anywhere.
+  - title: Direi
+    type: settlement
+    url: https://en.wikipedia.org/wiki/Dir%C3%A9
+    data: 
+      otherNames: Dire
+      ifPolygon: False
+      coordinates: 16.2610073, -3.3984662
+      modernCountry: Mali
+      frequency: 11
+      ifCampaign: True
+      confidence: 1
+      commentary: After taking over Direi, Sunni Ali travelled north to Kobi.
+  - title: Kobi
+    type: settlement
+    url: https://www.geonames.org/2455175/kobe.html
+    data: 
+      otherNames: Kobe
+      ifPolygon: False
+      coordinates: 15.70352, -3.88518
+      modernCountry: Mali
+      frequency: 9
+      ifCampaign: True
+      confidence: 2
+      commentary: According to the text, it should locate between Direi and Bambara. Wise and Abu Taleb think that it can refer to Kobi, Kobe, or Kebbi. This specific Kobe is what I can find at the moment and the most plausible.
+  - title: Arguma
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: True
+      coordinates: 
+      modernCountry: Burkina Faso
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: This place does not exist in modern gazetteer. Wise and Abu Taleb think this place refers to the settlement of the Yatenga, whose coordinates are 13.581359, -2.348888, in the country of Burkina Faso.
+  - title: Kutte
+    type: settlement
+    url: https://www.geonames.org/2454399/kounti.html
+    data: 
+      otherNames: Koutte, Kounti
+      ifPolygon: False
+      coordinates: 13.9814, -4.2898
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: This a place where Sunni Ali performed a prayer before his next expedition. I cannot find any places with the name Kutte or Koutte. Wise and Abu Taleb think that this place is on the right bank of the river Bani and not far from Jenne. I think Kounti is plausible because: 1)it is situated close to the river Bani, although it is on the left bank. 2) it is close to Sunni Ali's next destination Kounia. 3)it is close to Jenne. 4)it has the name that sounds the closes to Kutte among all the other places that share the previous three features.
+  - title: Kounia
+    type: settlement
+    url: https://www.geonames.org/2454451/kouna.html
+    data: 
+      otherNames: Kouna, Kuna
+      ifPolygon: False
+      coordinates: 14.2462, -4.14496
+      modernCountry: Mali
+      frequency: 4
+      ifCampaign: True
+      confidence: 1
+      commentary: Wise and Abu Taleb think that this place is the central location of Kunari on the right bank of the river Bani and upstream of Mopti. Today it is called Kouna. It is in the north of Sunni Ali's previous stop Kutte (Kounti).
+  - title: Tamsa
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: False
+      coordinates: 14.3491943, -3.6105001
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: True
+      confidence: 3
+      commentary: I cannot find any place relevant to this place. Wise and Abu Taleb think this is probably a settlement in the region around Bandiagara, whose coordinates I put in this entry.
+  - title: Da
+    type: settlement
+    url: 
+    data: 
+      otherNames: De
+      ifPolygon: True
+      coordinates:
+      modernCountry: Mali
+      frequency: 3
+      ifCampaign: True
+      confidence: 2
+      commentary: Wise and Abu Taleb think this is a village situated between Bandiagara and Douentza. 
+  - title: Fakiri
+    type: settlement
+    url: 
+    data: 
+      otherNames: Fakara
+      ifPolygon: False
+      coordinates: 11.55624, -5.01949
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: True
+      confidence: 3
+      commentary: Wise and Abu Taleb think this could refer to Fakara, whose coordinates I put in this entry; however, Fakara is quite distant from Sunni Ali's last stop in Bandiagara, and the text does not tell us why he travelled there.
+  - title: Kikere
+    type: settlement
+    url: https://www.geonames.org/2455280/kikara.html
+    data: 
+      otherNames: Kikera, Kikara
+      ifPolygon: False
+      coordinates: 15.21079, -2.74825
+      modernCountry: Mali
+      frequency: 3
+      ifCampaign: True
+      confidence: 1
+      commentary: Wise and Abu Taleb think this refers to Kikara in the north of Douentza. This is very plausible because in Kikara, Sunni Ali enslaved the inhabitants of Tondi, which is in the east of Kikara, a rocky and mountainous reigion.
+  - title: Sura-Bantamba
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: 
+      coordinates:
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: True
+      confidence: 3
+      commentary: According to Wise and Abu Taleb, this refers either to a country situated in Malli or a road to Timbuktu or simply to the north.
+  - title: Mansura
+    type: settlement
+    url: 
+    data: 
+      otherNames: Mansur
+      ifPolygon: False
+      coordinates:
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: True
+      confidence: 3
+      commentary: Wise and Abu Taleb think this could be Mansur, a small village located on the outskirts of Gao. I cannot find any place with either name.
+  - title: Azauat
+    type: settlement
+    url: https://www.geonames.org/2460837/azaouad.html
+    data: 
+      otherNames: Azauad, Azaouad
+      ifPolygon: False
+      coordinates: 18.54778, -2.33417
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: True
+      confidence: 2
+      commentary: Wise and Abu Taleb think this is probably Azauat or Azauad, a Saharan region that borders the northern part of the Niger. The coordinates I give here and believe to be plausible are of Azaouad, which is in the north of Gao and very close to the Saharan region. 
+  - title: Tasgo
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: False
+      coordinates:
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: True
+      confidence: 3
+      commentary: This place (or Tasko) is unfound. Wise and Abu Taleb are not sure if this is a settlement or province.
+  - title: Nassere
+    type: settlement
+    url: https://www.geonames.org/10342750/nassere.html
+    data: 
+      otherNames:
+      ifPolygon: False
+      coordinates: 13.33333, -1.36667
+      modernCountry: Burkina Faso
+      frequency: 1
+      ifCampaign: True
+      confidence: 1
+      commentary: According to the texts, Nassere is a town in the land of the Mossi, which is modern-day Burkina Faso. Wise and Abu Taleb comment that this is where Nassere, the emperor of Yatenga, used to reside.
+  - title: Lolo
+    type: settlement
+    url: https://www.geonames.org/6807090/lolo.html
+    data: 
+      otherNames: Laolo
+      ifPolygon: False
+      coordinates: 13.0166, 9.1858
+      modernCountry: Niger
+      frequency: 1
+      ifCampaign: True
+      confidence: 2
+      commentary: According to the texts, Lolo should be situated along the Niger. Wise and Abu Taleb think this place should be pronounced as Laolo based on manuscript C, but I cannot find any places with this name in the area. They also think this place is on the Niger downstream of Dendi. Because Dendi is an area that covers some lands of three countries: Niger, Nigeria, and Benin, I think the coordinates that I give here are plausible. However, GeoNames has three places that are named Lolo in Niger that are very close to each other. I am not completely confident that this is the Lolo mentioned in the texts.
+  - title: Barkona
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: False
+      coordinates:
+      modernCountry: Burkina Faso
+      frequency: 1
+      ifCampaign: True
+      confidence: 3
+      commentary: This is where the royal residence of the Mossi-koi located, so it should be in Burkina Faso. Wise and Abu Taleb also agree that this is a settlement of Yatenga. However, I cannot find any place with a similar name in the area. What can be sure is it is located in modern-day Burkina Faso, probably close to Yatenga and Sissamba.
+  - title: Moli
+    type: settlement
+    url: https://www.geonames.org/6858493/moli.html
+    data: 
+      otherNames: Moli
+      ifPolygon: False
+      coordinates: 13.3363, 2.2942
+      modernCountry: Niger
+      frequency: 1
+      ifCampaign: True
+      confidence: 2
+      commentary: Wise and Abu Taleb think this probably refers to a Mossi village. According to the texts, Sunni Ali was travelling from the land of Mossi to Kikere and this Moli given is on the route. It is still within Dendi.
+  - title: Numa
+    type: settlement
+    url: 
+    data: 
+      otherNames: Guma, Kuma
+      ifPolygon: False
+      coordinates:
+      modernCountry: 
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: This is not a place on the route of Sunni Ali's campaign, but a dwelling place of Dendi-fari Afumba. Therefore, it is located in Dendi. Wise and Abu Taleb think that this settlement could be Kuma or Guma. Guma, a village very close to Sarafere, is not very likely, because it is beyond the area of Dendi. This cannot be Nunma in Nigeria because of the distance. 
+  - title: Dendi
+    type: province
+    url: https://en.wikipedia.org/wiki/Dendi_(province)
+    data: 
+      otherNames:
+      ifPolygon: True
+      coordinates:
+      modernCountry: Niger, Mali, Nigeria
+      frequency: 4
+      ifCampaign: True
+      confidence: 1
+      commentary: This is an area very frequented by Sunni Ali.
+  - title: Jenne
+    type: settlement
+    url: https://en.wikipedia.org/wiki/Djenn%C3%A9
+    data: 
+      otherNames: Djenne
+      ifPolygon: False
+      coordinates: 13.90608, -4.55332
+      modernCountry: Mali
+      frequency: 30
+      ifCampaign: True
+      confidence: 1
+      commentary: Sunni Ali launched a war with the people of Jenne twice, but the texts fail to give a reason.
+  - title: Diaku
+    type: settlement
+    url: https://www.geonames.org/2458748/diohou.html
+    data: 
+      otherNames: Diohou
+      ifPolygon: False
+      coordinates: 14.13811, -4.92857
+      modernCountry: 
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: Why do the texts indicate that Sunni Ali stayed in Diaku but performed prayers in Kanao? I assume these two places are quite close to each other. Since Sunni Ali just finished a war in Jenne, I was looking for places close to Jenne. Diohou is in the west of Jenne, and the most likely place I can find.
+  - title: Kanao
+    type: settlement
+    url: https://www.geonames.org/2455779/kana.html
+    data: 
+      otherNames: Kana, Kano
+      ifPolygon: False
+      coordinates: 13.86081, -3.58888
+      modernCountry: 
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: There are many Kano, Kana in Mali, but this particular one is close to Diohou and Jenne (east of Jenne), and the most likely one that I reckon.
+  - title: Kadyibi
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: False
+      coordinates: 
+      modernCountry: 
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: Even with fuzzy search on GeoNames, I cannot locate this place. The texts fail to give any information regarding it.
+  - title: Diarka
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: False
+      coordinates:
+      modernCountry: 
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: This place is unable to be found by me. 
+  - title: Manti
+    type: settlement
+    url: https://www.geonames.org/2453604/mati.html
+    data: 
+      otherNames: Mati
+      ifPolygon: False
+      coordinates: 16.08751, -3.15194
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: According to the texts, after Sunni Ali stayed at Diarka and performed prayers at Manti, he headed back towards the river. Since his previous stops are hard to locate, this Manti probably should not be close to the river. However, I cannot locate it with the little knowledge I have from the texts. Mati could be plausible because of its closeness with Gao, his next destination.
+  - title: Yatolo
+    type: settlement
+    url: 
+    data: 
+      otherNames:
+      ifPolygon: False
+      coordinates:
+      modernCountry: 
+      frequency: 1
+      ifCampaign: False
+      confidence: 3
+      commentary: This place is unfound. According to the texts, it should be between Moli and Gao, but I cannot find any places who sound simiar to this place. Wise and Abu Taleb are completely silent about the places where Sunni Ali stayed and performed prayers in this section.
+  - title: Do
+    type: lake
+    url: https://en.wikipedia.org/wiki/Lake_D%C3%A9bo#:~:text=Lake%20D%C3%A9bo%20is%20a%20lake,form%20part%20of%20Lake%20D%C3%A9bo.
+    data: 
+      otherNames: Debo
+      ifPolygon: False
+      coordinates: 14.93438, -4.60496
+      modernCountry: Mali
+      frequency: 1
+      ifCampaign: True
+      confidence: 1
+      commentary: The only place in Sunni Ali's campaign where he set up his camp, according to the texts.
+  - title: Biru
+    type: settlement
+    url: https://www.geonames.org/2377327/oualata.html
+    data: 
+      otherNames: Walata, Oualata
+      ifPolygon: False
+      coordinates: 17.3014, -7.0256
+      modernCountry: Mali
+      frequency: 3
+      ifCampaign: False
+      confidence: 1
+      commentary: Wise and Abu Taleb point out that Biru is the Sudanese name for Walata.
+
+  - title: Sila
+    type: settlement
+    url: 
+    data: 
+      otherNames: Sela
+      ifPolygon: False
+      coordinates: 
+      modernCountry: Mali
+      frequency: 5
+      ifCampaign: True
+      confidence: 3
+      commentary: Wise and Abu Taleb think this place refers to either Sila or Sela in the valley of the Niger. While I cannot locate neither of them based on their commentary, I disagree with their statement and propose that this place should be located near Biru.
+  - title: Sama
+    type: settlement
+    url: 14.92525, -3.89677
+    data: 
+      otherNames: Same, Samo
+      ifPolygon: False
+      coordinates: 14.92525, -3.89677
+      modernCountry: Mali
+      frequency: 5
+      ifCampaign: False
+      confidence: 3
+      commentary: This is either the Sama in Mopti or that in Segou. The url and coordinates are of that in Mopti. Sama in Segou is https://www.geonames.org/2451869/sama.html. What can be sure is Sunni Ali travelled north after staying in Sama in his pursuit of Mossi-koi.
+
