@@ -65,7 +65,7 @@ entities:
       frequency: 6
       ifCampaign: True
       confidence: 1
-      commentary: Wise and Abu Taleb think it is situated on the right bank of the Niger, 20 km north of Lake Debo. 
+      commentary: Wise and Abu Taleb think it is situated on the right bank of the Niger, 20 km north of Lake Debo (pp.90). 
   - title: Dirma
     type: province
     url: 
@@ -77,7 +77,7 @@ entities:
       frequency: 3
       ifCampaign: True
       confidence: 1
-      commentary: Dirma is an area in the form of polygon. Wise and Abu Taleb think that it lies between Issa-Ber and Bara-Issa, north of Lake Debo, and the name is sometimes used for the entire region of the Niger between Jenne and Timbuktu.
+      commentary: Dirma is an area in the form of polygon. Wise and Abu Taleb think that it lies between Issa-Ber and Bara-Issa, north of Lake Debo, and the name is sometimes used for the entire region of the Niger between Jenne and Timbuktu (pp.90).
   - title: Ankaba
     type: settlement
     url: https://en.wikipedia.org/wiki/Diankabou
@@ -88,7 +88,7 @@ entities:
       frequency: 1
       ifCampaign: False
       confidence: 2
-      commentary: Wise and Abu Taleb think that this refers to the village of Diankabe, in the east of Wara; however, the only place closest to "Diankabe" is Diankabou. It is in the east of Wara, but very far from it, so I am not fully confident. 
+      commentary: Wise and Abu Taleb think that this refers to the village of Diankabe, in the east of Wara (pp.90); however, the only place closest to "Diankabe" is Diankabou. It is in the east of Wara, but very far from it, so I am not fully confident. 
   - title: Diendiao
     type: settlement
     url: 
@@ -100,7 +100,7 @@ entities:
       frequency: 1
       ifCampaign: False
       confidence: 3
-      commentary: Wise and Abu Taleb think that this is a village on the left bank of the Niger, facing Wara, but I cannot find it anywhere.
+      commentary: Wise and Abu Taleb think that this is a village on the left bank of the Niger, facing Wara (pp.90), but I cannot find it anywhere.
   - title: Direi
     type: settlement
     url: https://en.wikipedia.org/wiki/Dir%C3%A9
@@ -124,7 +124,7 @@ entities:
       frequency: 9
       ifCampaign: True
       confidence: 2
-      commentary: According to the text, it should locate between Direi and Bambara. Wise and Abu Taleb think that it can refer to Kobi, Kobe, or Kebbi. This specific Kobe is what I can find at the moment and the most plausible.
+      commentary: According to the text, it should locate between Direi and Bambara. Wise and Abu Taleb think that it can refer to Kobi, Kobe, or Kebbi (pp.90). This specific Kobe is what I can find at the moment and the most plausible.
   - title: Arguma
     type: settlement
     url: 
@@ -136,7 +136,7 @@ entities:
       frequency: 1
       ifCampaign: False
       confidence: 3
-      commentary: This place does not exist in modern gazetteer. Wise and Abu Taleb think this place refers to the settlement of the Yatenga, whose coordinates are 13.581359, -2.348888, in the country of Burkina Faso.
+      commentary: This place does not exist in modern gazetteer. Wise and Abu Taleb think this place refers to the settlement of the Yatenga, whose coordinates are 13.581359, -2.348888, in the country of Burkina Faso (pp.91).
   - title: Kutte
     type: settlement
     url: https://www.geonames.org/2454399/kounti.html
@@ -148,7 +148,7 @@ entities:
       frequency: 1
       ifCampaign: False
       confidence: 3
-      commentary: This a place where Sunni Ali performed a prayer before his next expedition. I cannot find any places with the name Kutte or Koutte. Wise and Abu Taleb think that this place is on the right bank of the river Bani and not far from Jenne. I think Kounti is plausible because: 1)it is situated close to the river Bani, although it is on the left bank. 2) it is close to Sunni Ali's next destination Kounia. 3)it is close to Jenne. 4)it has the name that sounds the closes to Kutte among all the other places that share the previous three features.
+      commentary: This a place where Sunni Ali performed a prayer before his next expedition. I cannot find any places with the name Kutte or Koutte. Wise and Abu Taleb think that this place is on the right bank of the river Bani and not far from Jenne (pp.91). I think Kounti is plausible because: 1)it is situated close to the river Bani, although it is on the left bank. 2) it is close to Sunni Ali's next destination Kounia. 3)it is close to Jenne. 4)it has the name that sounds the closes to Kutte among all the other places that share the previous three features.
   - title: Kounia
     type: settlement
     url: https://www.geonames.org/2454451/kouna.html
@@ -160,7 +160,7 @@ entities:
       frequency: 4
       ifCampaign: True
       confidence: 1
-      commentary: Wise and Abu Taleb think that this place is the central location of Kunari on the right bank of the river Bani and upstream of Mopti. Today it is called Kouna. It is in the north of Sunni Ali's previous stop Kutte (Kounti).
+      commentary: Wise and Abu Taleb think that this place is the central location of Kunari on the right bank of the river Bani and upstream of Mopti (pp.91). Today it is called Kouna. It is in the north of Sunni Ali's previous stop Kutte (Kounti).
   - title: Tamsa
     type: settlement
     url: 
@@ -172,7 +172,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 3
-      commentary: I cannot find any place relevant to this place. Wise and Abu Taleb think this is probably a settlement in the region around Bandiagara, whose coordinates I put in this entry.
+      commentary: I cannot find any place relevant to this place. Wise and Abu Taleb think this is probably a settlement in the region around Bandiagara, whose coordinates I put in this entry (pp.91).
   - title: Da
     type: settlement
     url: 
@@ -184,7 +184,7 @@ entities:
       frequency: 3
       ifCampaign: True
       confidence: 2
-      commentary: Wise and Abu Taleb think this is a village situated between Bandiagara and Douentza. 
+      commentary: Wise and Abu Taleb think this is a village situated between Bandiagara and Douentza (pp.92). 
   - title: Fakiri
     type: settlement
     url: 
@@ -196,7 +196,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 3
-      commentary: Wise and Abu Taleb think this could refer to Fakara, whose coordinates I put in this entry; however, Fakara is quite distant from Sunni Ali's last stop in Bandiagara, and the text does not tell us why he travelled there.
+      commentary: Wise and Abu Taleb think this could refer to Fakara, whose coordinates I put in this entry (pp.92); however, Fakara is quite distant from Sunni Ali's last stop in Bandiagara, and the text does not tell us why he travelled there.
   - title: Kikere
     type: settlement
     url: https://www.geonames.org/2455280/kikara.html
@@ -208,7 +208,7 @@ entities:
       frequency: 3
       ifCampaign: True
       confidence: 1
-      commentary: Wise and Abu Taleb think this refers to Kikara in the north of Douentza. This is very plausible because in Kikara, Sunni Ali enslaved the inhabitants of Tondi, which is in the east of Kikara, a rocky and mountainous reigion.
+      commentary: Wise and Abu Taleb think this refers to Kikara in the north of Douentza (pp.92). This is very plausible because in Kikara, Sunni Ali enslaved the inhabitants of Tondi, which is in the east of Kikara, a rocky and mountainous reigion.
   - title: Sura-Bantamba
     type: settlement
     url: 
@@ -220,7 +220,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 3
-      commentary: According to Wise and Abu Taleb, this refers either to a country situated in Malli or a road to Timbuktu or simply to the north.
+      commentary: According to Wise and Abu Taleb, this refers either to a country situated in Malli or a road to Timbuktu or simply to the north (pp.92).
   - title: Mansura
     type: settlement
     url: 
@@ -232,7 +232,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 3
-      commentary: Wise and Abu Taleb think this could be Mansur, a small village located on the outskirts of Gao. I cannot find any place with either name.
+      commentary: Wise and Abu Taleb think this could be Mansur, a small village located on the outskirts of Gao (pp.92). I cannot find any place with either name.
   - title: Azauat
     type: settlement
     url: https://www.geonames.org/2460837/azaouad.html
@@ -244,7 +244,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 2
-      commentary: Wise and Abu Taleb think this is probably Azauat or Azauad, a Saharan region that borders the northern part of the Niger. The coordinates I give here and believe to be plausible are of Azaouad, which is in the north of Gao and very close to the Saharan region. 
+      commentary: Wise and Abu Taleb think this is probably Azauat or Azauad, a Saharan region that borders the northern part of the Niger (pp.92). The coordinates I give here and believe to be plausible are of Azaouad, which is in the north of Gao and very close to the Saharan region. 
   - title: Tasgo
     type: settlement
     url: 
@@ -256,7 +256,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 3
-      commentary: This place (or Tasko) is unfound. Wise and Abu Taleb are not sure if this is a settlement or province.
+      commentary: This place (or Tasko) is unfound. Wise and Abu Taleb are not sure if this is a settlement or province (pp.93).
   - title: Nassere
     type: settlement
     url: https://www.geonames.org/10342750/nassere.html
@@ -268,7 +268,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 1
-      commentary: According to the texts, Nassere is a town in the land of the Mossi, which is modern-day Burkina Faso. Wise and Abu Taleb comment that this is where Nassere, the emperor of Yatenga, used to reside.
+      commentary: According to the texts, Nassere is a town in the land of the Mossi, which is modern-day Burkina Faso. Wise and Abu Taleb comment that this is where Nassere, the emperor of Yatenga, used to reside (pp.93).
   - title: Lolo
     type: settlement
     url: https://www.geonames.org/6807090/lolo.html
@@ -280,7 +280,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 2
-      commentary: According to the texts, Lolo should be situated along the Niger. Wise and Abu Taleb think this place should be pronounced as Laolo based on manuscript C, but I cannot find any places with this name in the area. They also think this place is on the Niger downstream of Dendi. Because Dendi is an area that covers some lands of three countries: Niger, Nigeria, and Benin, I think the coordinates that I give here are plausible. However, GeoNames has three places that are named Lolo in Niger that are very close to each other. I am not completely confident that this is the Lolo mentioned in the texts.
+      commentary: According to the texts, Lolo should be situated along the Niger. Wise and Abu Taleb think this place should be pronounced as Laolo based on manuscript C (pp.93), but I cannot find any places with this name in the area. They also think this place is on the Niger downstream of Dendi. Because Dendi is an area that covers some lands of three countries: Niger, Nigeria, and Benin, I think the coordinates that I give here are plausible. However, GeoNames has three places that are named Lolo in Niger that are very close to each other. I am not completely confident that this is the Lolo mentioned in the texts.
   - title: Barkona
     type: settlement
     url: 
@@ -292,7 +292,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 3
-      commentary: This is where the royal residence of the Mossi-koi located, so it should be in Burkina Faso. Wise and Abu Taleb also agree that this is a settlement of Yatenga. However, I cannot find any place with a similar name in the area. What can be sure is it is located in modern-day Burkina Faso, probably close to Yatenga and Sissamba.
+      commentary: This is where the royal residence of the Mossi-koi located, so it should be in Burkina Faso. Wise and Abu Taleb also agree that this is a settlement of Yatenga (pp.94). However, I cannot find any place with a similar name in the area. What can be sure is it is located in modern-day Burkina Faso, probably close to Yatenga and Sissamba.
   - title: Moli
     type: settlement
     url: https://www.geonames.org/6858493/moli.html
@@ -304,7 +304,7 @@ entities:
       frequency: 1
       ifCampaign: True
       confidence: 2
-      commentary: Wise and Abu Taleb think this probably refers to a Mossi village. According to the texts, Sunni Ali was travelling from the land of Mossi to Kikere and this Moli given is on the route. It is still within Dendi.
+      commentary: Wise and Abu Taleb think this probably refers to a Mossi village (pp.95). According to the texts, Sunni Ali was travelling from the land of Mossi to Kikere and this Moli given is on the route. It is still within Dendi.
   - title: Numa
     type: settlement
     url: 
@@ -316,7 +316,7 @@ entities:
       frequency: 1
       ifCampaign: False
       confidence: 3
-      commentary: This is not a place on the route of Sunni Ali's campaign, but a dwelling place of Dendi-fari Afumba. Therefore, it is located in Dendi. Wise and Abu Taleb think that this settlement could be Kuma or Guma. Guma, a village very close to Sarafere, is not very likely, because it is beyond the area of Dendi. This cannot be Nunma in Nigeria because of the distance. 
+      commentary: This is not a place on the route of Sunni Ali's campaign, but a dwelling place of Dendi-fari Afumba. Therefore, it is located in Dendi. Wise and Abu Taleb think that this settlement could be Kuma or Guma (pp.95). Guma, a village very close to Sarafere, is not very likely, because it is beyond the area of Dendi. This cannot be Nunma in Nigeria because of the distance. 
   - title: Dendi
     type: province
     url: https://en.wikipedia.org/wiki/Dendi_(province)
@@ -435,7 +435,7 @@ entities:
       frequency: 3
       ifCampaign: False
       confidence: 1
-      commentary: Wise and Abu Taleb point out that Biru is the Sudanese name for Walata.
+      commentary: Wise and Abu Taleb point out that Biru is the Sudanese name for Walata (pp.96).
 
   - title: Sila
     type: settlement
@@ -448,7 +448,7 @@ entities:
       frequency: 5
       ifCampaign: True
       confidence: 3
-      commentary: Wise and Abu Taleb think this place refers to either Sila or Sela in the valley of the Niger. While I cannot locate neither of them based on their commentary, I disagree with their statement and propose that this place should be located near Biru.
+      commentary: Wise and Abu Taleb think this place refers to either Sila or Sela in the valley of the Niger (pp.96). While I cannot locate neither of them based on their commentary, I disagree with their statement and propose that this place should be located near Biru.
   - title: Sama
     type: settlement
     url: 14.92525, -3.89677
